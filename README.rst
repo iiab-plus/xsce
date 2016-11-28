@@ -1,3 +1,6 @@
+This Fork serves to preserve Release-6.1 on Centos
+==================================================
+
 ======================================
 School Server Community Edition (XSCE)
 ======================================
